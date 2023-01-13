@@ -4,8 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-    body {
-        /* font-family: ti; */
-    }
+body{
+    max-width: 100vw;
+    overflow-x: hidden;
 }
