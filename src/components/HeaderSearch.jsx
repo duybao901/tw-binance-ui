@@ -1,5 +1,5 @@
 import React from 'react'
-// border-2 border-solid border-orange-400
+
 const HeaderSearch = () => {
   return (
     <div className="h-10 bg-transparent rounded-full bg-filled-inputsearch bg-[length:100%_100%] flex items-center p-4" style={{ width: "420px" }}>
