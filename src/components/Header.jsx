@@ -5,7 +5,7 @@ import Logo from './Logo'
 
 const Header = () => {
     return (
-        <div className="flex h-20 bg-white items-center px-4 justify-between">
+        <div className="flex h-20 bg-white items-center px-4 justify-between fixed w-full top-0 left-0">
             <div className="flex items-center h-full">
                 <div className="flex items-center" style={{ width: "684px" }}>
                     <i className="bx bxs-home text-2xl w-6"></i>

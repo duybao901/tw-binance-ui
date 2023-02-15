@@ -515,6 +515,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.fixed{
+  position: fixed;
+}
+
 .absolute{
   position: absolute;
 }
@@ -533,6 +537,14 @@ video {
 
 .left-0{
   left: 0px;
+}
+
+.top-9{
+  top: 2.25rem;
+}
+
+.top-0{
+  top: 0px;
 }
 
 .mx-auto{

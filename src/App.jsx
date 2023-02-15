@@ -8,7 +8,7 @@ function App() {
     return (
         <div className="font-titillium">
             <Header></Header>
-            <main className="w-[100vw]">
+            <main className="w-[100vw] mt-20">
                 <div className="bg-bgi-banner-bg bg-100% bg-no-repeat w-full h-full">
                     <Home></Home>
                     <EventRare></EventRare>
